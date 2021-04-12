@@ -11,6 +11,8 @@ Dans le répertoire du repository :
 
   python manage.py migrate
   python manage.py createsuperuser
+
+Modifier les fichiers hashers.py et global_settings de Django avec ceux fournis 
   
 Pour lancer le serveur :
   python manage.py runserver
